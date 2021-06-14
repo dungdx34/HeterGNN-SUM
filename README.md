@@ -1,1 +1,1 @@
-# -MTGNN-SUM
+# MTGNN-SUM
